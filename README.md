@@ -1,11 +1,11 @@
 ![Cover](https://i0.wp.com/www.entertainmentmesh.com/wp-content/uploads/2015/10/cool-cat-fb-cover.jpg?ssl=1)
 ### Hi there 👋
 
-let webDeveloper = {
-firstName: "Maria", 
-lastName: "Paterno", 
-location: "ColoradoSprings"
-};
+let webDeveloper = {   
+firstName: "Maria",   
+lastName: "Paterno",   
+location: "ColoradoSprings"   
+};   
 
 
 - 📫 How to reach me: mariapaterno7@gmail.com
