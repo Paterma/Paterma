@@ -1,4 +1,4 @@
-[Cover]!(https://i0.wp.com/www.entertainmentmesh.com/wp-content/uploads/2015/10/cool-cat-fb-cover.jpg?ssl=1)
+![Cover](https://i0.wp.com/www.entertainmentmesh.com/wp-content/uploads/2015/10/cool-cat-fb-cover.jpg?ssl=1)
 ### Hi there 👋
 
 let webDeveloper = {
