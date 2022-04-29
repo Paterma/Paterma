@@ -9,7 +9,7 @@ location: "ColoradoSprings"
 
 
 - 📫 How to reach me: mariapaterno7@gmail.com
--- ⚡ Fun fact: The world's first programmer was a woman named Ada Lovelace, born in 1815.
+- ⚡ Fun fact: The world's first programmer was a woman named Ada Lovelace, born in 1815.
 
 <!--
 **Paterma/Paterma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
