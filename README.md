@@ -1,11 +1,23 @@
 ![Cover](https://i0.wp.com/www.entertainmentmesh.com/wp-content/uploads/2015/10/cool-cat-fb-cover.jpg?ssl=1)
 ### Hi there 👋
 
-let webDeveloper = {   
-firstName: "Maria",   
-lastName: "Paterno",   
-location: "ColoradoSprings"   
+const webDeveloper = {   
+&nbsp;&nbsp; firstName: "Maria",   
+&nbsp;&nbsp; lastName: "Paterno",   
+&nbsp;&nbsp; location: "ColoradoSprings",   
+&nbsp;&nbsp; currentOccupation: "Open to Work",   
+&nbsp;&nbsp; code: ["JavaScript", "CSS", "HTML"],     
+&nbsp;&nbsp; technologies: {   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  frontEnd: {    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    javaScript: ["React", "handlebars", "jQuery"],   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    css: ["Bootstrap", "React-Bootstrap", "MaterialUI"]   
+&nbsp;&nbsp;&nbsp;&nbsp;  },   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  backEnd: {   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    javaScript: ["Express", "Node", "GraphQL"]  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    },  
+&nbsp;&nbsp;&nbsp; dataBases: ["MySQL", "MongoDB"],   
 };   
+  
 
 
 - 📫 How to reach me: mariapaterno7@gmail.com
