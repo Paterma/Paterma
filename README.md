@@ -15,7 +15,7 @@ const webDeveloper = {
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  backEnd: {   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    javaScript: ["Express", "Node", "GraphQL"]  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    },  
-&nbsp;&nbsp;&nbsp; dataBases: ["MySQL", "MongoDB"],   
+&nbsp;&nbsp; dataBases: ["MySQL", "MongoDB"],   
 };   
   
 
