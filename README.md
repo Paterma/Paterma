@@ -6,7 +6,7 @@ const webDeveloper = {
 &nbsp;&nbsp; lastName: "Paterno",   
 &nbsp;&nbsp; location: "ColoradoSprings",   
 &nbsp;&nbsp; currentOccupation: "Junior Developer at Rocket Communications",   
-&nbsp;&nbsp; code: ["JavaScript", "CSS", "HTML"],     
+&nbsp;&nbsp; code: ["JS", "TS", "CSS", "HTML"],     
 &nbsp;&nbsp; technologies: {   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  frontEnd: {    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    javaScript: ["React", "handlebars", "jQuery"],   
