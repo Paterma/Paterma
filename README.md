@@ -5,7 +5,7 @@ const webDeveloper = {
 &nbsp;&nbsp; firstName: "Maria",   
 &nbsp;&nbsp; lastName: "Paterno",   
 &nbsp;&nbsp; location: "ColoradoSprings",   
-&nbsp;&nbsp; currentOccupation: "Junior Developer at Rocket Communications",   
+&nbsp;&nbsp; currentOccupation: "Front End Developer at Rocket Communications",   
 &nbsp;&nbsp; code: ["JS", "TS", "CSS", "HTML"],     
 &nbsp;&nbsp; technologies: {   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  frontEnd: {    
